@@ -18,6 +18,6 @@
   "homepage": "https://github.com/DamienYule/TK_Campaign-#readme",
   "dependencies": {},
   "devDependencies": {
-    "node-sass": "^6.0.1"
+    "node-sass": "^7.0.0"
   }
 }
